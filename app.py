@@ -118,4 +118,3 @@ y.value_counts().plot(kind="bar", ax=ax)
 ax.set_xlabel("Класс")
 ax.set_ylabel("Количество")
 st.pyplot(fig)
-```
